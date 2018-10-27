@@ -1,0 +1,12 @@
+Element Name    Value      Adreess
+  ---------------       ------    ---------
+*(nums+i)    10     006FFAAC
+*(nums+i)    20     006FFAB0
+*(nums+i)    30     006FFAB4
+*(nums+i)    40     006FFAB8
+*(nums+i)    50     006FFABC
+*(nums+i)    60     006FFAC0
+*(nums+i)    70     006FFAC4
+*(nums+i)    80     006FFAC8
+*(nums+i)    90     006FFACC
+*(nums+i)    100     006FFAD0
