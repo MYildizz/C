@@ -1,1 +1,0 @@
-In this repository,I will share exercise applications about C programming language when I write code in lab sections in university last year.
